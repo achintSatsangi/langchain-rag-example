@@ -1,0 +1,7 @@
+chroma_*
+chroma*
+chroma
+data/aurora
+data/messaging
+.DS_Store
+.idea
